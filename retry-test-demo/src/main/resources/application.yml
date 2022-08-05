@@ -1,0 +1,6 @@
+server:
+  port: 8080
+
+coderlucifar:
+  retry:
+    interval: 1000,2000,3000
